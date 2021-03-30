@@ -1,8 +1,4 @@
-# Start Sua Carreira - Portfólio
-
-Aqui vamos desenvolver ao longo dos dias desse curso, um currículo/portfólio.
-
-Esse repositório será atualizado todos os dias, com as alterações feitas junto com vocês nas lives.
+Meu Portfolio
 
 ## O projeto
 
@@ -34,9 +30,3 @@ Esse repositório será atualizado todos os dias, com as alterações feitas jun
     - Branco: `#fff`;
     - Cinza escuro: `#636363`;
     - Cinza claro: `#aeaeae`;
-
-### O layout
-
-[Desktop](./kenzie-academy_startnasuacarreira.png)
-
-[Mobile](./kenzie-academy_startnasuacarreira-mobile.png)
