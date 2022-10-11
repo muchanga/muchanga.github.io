@@ -114,6 +114,7 @@ footer nav .info-contato li{
     margin: 0 0 15px;
 }
 
+
 footer nav .redes-sociais{
     border-top: 1px solid rgb(255 255 255 / 20%);
     margin: 20px 0 50px;
@@ -128,6 +129,10 @@ footer nav .redes-sociais li{
 
 footer nav .redes-sociais li a img{
     width: 40px;
+}
+
+#whatsapp-logo {
+    color:#ffff;
 }
 
 
